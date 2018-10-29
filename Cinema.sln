@@ -1,0 +1,9 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Android", "Cinema\Cinema.Android\Cinema.Android.csproj", "{B4D19FB3-7DB6-43EF-ADD7-C40B7B7943D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema\Cinema.csproj", "{B293857F-F89B-453E-8F19-6CF8B7671A75}"
+EndProject
